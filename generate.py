@@ -15,8 +15,9 @@ def generate():
 	f.write('# My Osu! Skins' + '\n')
 	for entry in entries:
 		filename = re.sub('\W+', '', entry)
-		f.write('\n## '+filename+)
+		f.write('\n## '+filename)
 		f.write('[Download](' + github_link+filename+'.osk' +')' )
+		f.write('\n ![Screenshoot](Screenshots/' + filename + '.webp)')
 		if not os.path.isfile('Skins/' + filename+'.osk'):
 			print('writing ' + filename + "...")
 			shutil.make_archive(filename, 'zip', skins_dir + '/' + entry)
