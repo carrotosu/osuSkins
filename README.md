@@ -30,3 +30,5 @@
  ![Screenshoot](Screenshots/ryanmystiathing.webp)
 ## vv_idke_trail [Download](https://github.com/eranyoung/osuSkins/tree/master/Skins/vv_idke_trail.osk)
  ![Screenshoot](Screenshots/vv_idke_trail.webp)
+## ZyliceSkinMix2022 [Download](https://github.com/eranyoung/osuSkins/tree/master/Skins/ZyliceSkinMix2022.osk)
+ ![Screenshoot](Screenshots/ZyliceSkinMix2022.webp)
