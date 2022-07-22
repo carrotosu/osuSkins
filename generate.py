@@ -16,7 +16,7 @@ def generate():
 	for entry in entries:
 		filename = re.sub('\W+', '', entry)
 		f.write('\n## '+filename)
-		f.write('[Download](' + github_link+filename+'.osk' +')' )
+		f.write(' [Download](' + github_link+filename+'.osk' +')' )
 		f.write('\n ![Screenshoot](Screenshots/' + filename + '.webp)')
 		if not os.path.isfile('Skins/' + filename+'.osk'):
 			print('writing ' + filename + "...")
