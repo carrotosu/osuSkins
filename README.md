@@ -6,6 +6,8 @@
  ![Screenshoot](Screenshots/ArZnMonkoBaconEdit.webp)
 ## CKBaconboi10blue [Download](https://github.com/eranyoung/osuSkins/tree/master/Skins/CKBaconboi10blue.osk)
  ![Screenshoot](Screenshots/CKBaconboi10blue.webp)
+## AristiaWhite [Download](https://github.com/eranyoung/osuSkins/tree/master/Skins/AristiaWhite.osk)
+ ![Screenshoot](Screenshots/AristiaWhite.webp)
 ## khzRemiliaScarletCopy [Download](https://github.com/eranyoung/osuSkins/tree/master/Skins/khzRemiliaScarletCopy.osk)
  ![Screenshoot](Screenshots/khzRemiliaScarletCopy.webp)
 ## Ryanstolefromkevinjune20 [Download](https://github.com/eranyoung/osuSkins/tree/master/Skins/Ryanstolefromkevinjune20.osk)
